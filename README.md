@@ -9,11 +9,11 @@ I've been programming from a fairly young age, starting off with Roblox Studio, 
 
 ## Socials
 Find me out in the wild!<br>
-<a title="Website" href="https://datbogie.org"><img height=42px src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"></a>
-<a title="YouTube Channel" href="https://youtube.com/@datbogie"><img height=42px src="https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_36dp.png"></a>
-<a title="Google Site" href="https://bit.ly/datbogie"><img height=42px src="https://ragsdalemartin.com/wp-content/uploads/2020/07/white-google-logo.png"></a>
-<a title="Roblox Profile" href="https://www.roblox.com/users/479943271/profile"><img height=42px src="https://i.ibb.co/Jdb8N4M/250841-after.png"></a>
-<a title="Steam Profile" href="https://steamcommunity.com/id/DatBogie"><img height=42px src="https://i.ibb.co/Fq0Wtb5/steam-logo-shape.png"></a>
+<a title="Website" href="https://datbogie.org"><img width=42px src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"></a>
+<a title="YouTube Channel" href="https://youtube.com/@datbogie"><img width=42px src="https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_36dp.png"></a>
+<a title="Google Site" href="https://bit.ly/datbogie"><img width=42px src="https://ragsdalemartin.com/wp-content/uploads/2020/07/white-google-logo.png"></a>
+<a title="Roblox Profile" href="https://www.roblox.com/users/479943271/profile"><img width=42px src="https://i.ibb.co/Jdb8N4M/250841-after.png"></a>
+<a title="Steam Profile" href="https://steamcommunity.com/id/DatBogie"><img width=42px src="https://i.ibb.co/Fq0Wtb5/steam-logo-shape.png"></a>
 
 And here's my [Roblox Development Group!](https://roblox.com/groups/7789323/x)
 <br>Can't forget about that one ;)
