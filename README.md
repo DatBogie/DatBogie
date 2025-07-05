@@ -9,7 +9,7 @@ I've been programming from a fairly young age, starting off with Roblox Studio, 
 
 ## Socials
 Find me out in the wild!<br>
-<a title="Website" href="https://datbogie.org"><img width=42px src="https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png"></a>
+<a title="Website" href="https://datbogie.org"><img width=32px src="https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png"></a>
 <a title="YouTube Channel" href="https://youtube.com/@datbogie"><img width=42px src="https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_36dp.png"></a>
 <a title="Google Site" href="https://bit.ly/datbogie"><img width=42px src="https://ragsdalemartin.com/wp-content/uploads/2020/07/white-google-logo.png"></a>
 <a title="Roblox Profile" href="https://www.roblox.com/users/479943271/profile"><img width=42px src="https://i.ibb.co/Jdb8N4M/250841-after.png"></a>
