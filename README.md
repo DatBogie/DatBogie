@@ -1,6 +1,6 @@
 ## Hello there!
 I'm Dat Bogie, a young programmer from the US.
-<br>He/she, pansexual, bigender.
+<br>He/she, pansexual, bigender, demiromantic.
 <br>FYI, my pfp is a pic of my dog (I have two of them and they are the best)!
 
 ## Programming
