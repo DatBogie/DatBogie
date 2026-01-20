@@ -5,7 +5,7 @@ I'm Dat Bogie, a young programmer from the US.
 
 ## Programming
 I've been programming from a fairly young age, starting off with Roblox Studio, then Scratch, then taking my first Computer Science course in my freshman year (and of course continuing with CS throughout high school).
-<br>I've picked up Lua(_u_), Python, and some Java, JavaScript, and C++ so far, and will hopefully learn some more in the future!
+<br>I've picked up Lua(_u_), Python, and intro level Java, JavaScript, and C++ so far, and will hopefully learn some more in the future!
 
 ## Socials
 Find me out in the wild!<br>
