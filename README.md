@@ -1,8 +1,8 @@
 ## Hello there!
 I'm Dat Bogie, a younger programmer from the US.  
-She/her, pansexual, transgender, demiromantic, aceflux.  
-([pronouns.page](https://en.pronouns.page/@DatBogie))  
-FYI, my pfp is a pic of my dog (I have two of them and they are the best)!
+she/her ([pronouns.page](https://en.pronouns.page/@DatBogie))
+
+_FYI, my pfp is a pic of my dog (I have two of them and they are the best)!_
 
 ## Programming
 I've been programming from a fairly young age, starting off with Roblox Studio, then Scratch, then taking my first Computer Science course in my freshman year (and of course continuing with CS throughout high school).  
